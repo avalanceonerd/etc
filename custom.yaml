@@ -1,0 +1,30 @@
+payload:
+  # 内容：自定义规则
+  - DOMAIN-SUFFIX,jtvnw.net,DIRECT
+  - DOMAIN-SUFFIX,ttvnw.net,DIRECT
+  - IP-CIDR,45.64.20.93/32,DIRECT
+  - DOMAIN-SUFFIX,steamcontent.com,DIRECT
+  - DOMAIN-SUFFIX,dl.steam.clngaa.com,DIRECT
+  - DOMAIN-SUFFIX,dl.steam.ksyna.com,DIRECT
+  - DOMAIN-SUFFIX,st.dl.bscstorage.net,DIRECT
+  - DOMAIN-SUFFIX,st.dl.eccdnx.com,DIRECT
+  - DOMAIN-SUFFIX,st.dl.pinyuncloud.com,DIRECT
+  - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com,DIRECT
+  - DOMAIN-SUFFIX,steampowered.com.8686c.com,DIRECT
+  - DOMAIN-SUFFIX,steamstatic.com.8686c.com,DIRECT
+  - DOMAIN-SUFFIX,xz.pphimalayanrt.com,DIRECT
+  - DOMAIN-SUFFIX,steamchina.com,DIRECT
+  - DOMAIN,p16-tiktokcdn-com.akamaized.net,🚀 节点选择
+  - DOMAIN-SUFFIX,byteoversea.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ibytedtos.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ibyteimg.com,🚀 节点选择
+  - DOMAIN-SUFFIX,ipstatp.com,🚀 节点选择
+  - DOMAIN-SUFFIX,muscdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,musical.ly,🚀 节点选择
+  - DOMAIN-SUFFIX,sgpstatp.com,🚀 节点选择
+  - DOMAIN-SUFFIX,snssdk.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tik-tokapi.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tiktok.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tiktokcdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tiktokv.com,🚀 节点选择
+  - DOMAIN-KEYWORD,tiktokcdn-,🚀 节点选择
